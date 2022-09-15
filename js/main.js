@@ -12,5 +12,5 @@ function options(){
 }
 
 function work(){
-    
+    alert('work');
 }
