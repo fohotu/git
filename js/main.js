@@ -1,3 +1,8 @@
 function init(){
+
+}
+
+
+function run(){
     
 }
